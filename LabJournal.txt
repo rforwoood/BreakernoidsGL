@@ -1,0 +1,2 @@
+1/31 started project in class, literally only got the background sprite working and the color changing Background
+2/6  Continued work on project from 8 Pm to 1 Am, ran into snags around getting monogame working at home but done in 1st hour, Completed paddle movement by 9:30, Ball movement by 10:00, Ball collision by 10:45, proceeded to mess with randomizing colors for 105 min (to no avail), completed Blocks by 1:00 Am
